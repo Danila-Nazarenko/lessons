@@ -4,5 +4,5 @@ Here are the programs I studied:
 3) DOM and jQuery
 4) Keyboard functions
 5) JS functions
-6) Async functions <br>
+6) Async functions
 7)First class functions
